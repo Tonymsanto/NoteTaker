@@ -18,4 +18,3 @@ This project is a way that you can write and save notes into a website. They wil
   If you have any further questions, 
    - You can email me at: tonymsanto@gmail.com
    - You can find my GitHub at: [Tonymsanto](https://github.com/Tonymsanto)
-
