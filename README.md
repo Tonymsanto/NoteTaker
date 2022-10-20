@@ -13,6 +13,7 @@ There is no installation necessary for this project.
 
 ## Usage
 This project has a landing page where you can write and save notes right onto the page. There is going to be a text box in the middle of the page that will have a header as well as a body. You can fill out the note, hit save, and the not is going to appear on the left side of the screen.
+![image](https://user-images.githubusercontent.com/109988819/196849320-f2525d0b-2c4f-4646-be74-85730936f5ca.png)
 
 ## Questions
 If you have any further questions,
